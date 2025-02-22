@@ -2,3 +2,6 @@
 # Golden Aleksei
 ## About us
 * We are a FTC Robotics Team at Largo High School
+
+Letter to everyone:
+This season is over, the repository is being archived shortly to be remembered...
